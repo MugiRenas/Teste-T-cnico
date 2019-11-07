@@ -1,0 +1,6 @@
+C:\Users\correiarext\source\repos\ProductsCategories\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\correiarext\source\repos\ProductsCategories\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\correiarext\source\repos\ProductsCategories\ClassLibrary1\obj\Debug\ProductsCategoriesDataAcess.csprojAssemblyReference.cache
+C:\Users\correiarext\source\repos\ProductsCategories\ClassLibrary1\obj\Debug\ProductsCategoriesDataAcess.csproj.CoreCompileInputs.cache
+C:\Users\correiarext\source\repos\ProductsCategories\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\correiarext\source\repos\ProductsCategories\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
